@@ -1,8 +1,8 @@
-##👋 Hi, I'm riskMechanic
+## 👋 Hi, I'm riskMechanic
 I'm passionate about financial modeling, risk analysis, and company valuation—building projects that blend data, business insight, and academic rigor.
 Currently learning through structured academic sources and applying knowledge through hands-on projects and case studies.
 
-🔧 What I'm working on:
+🔧 What I'm working on:<br/>
 
 -Building a portfolio of financial models and analysis tools
 
@@ -10,7 +10,7 @@ Currently learning through structured academic sources and applying knowledge th
 
 -Exploring valuation techniques for SMEs and startups
 
-💼 What you'll find here:
+💼 What you'll find here:<br/>
 
 -Clean, well-documented repositories
 
@@ -18,7 +18,7 @@ Currently learning through structured academic sources and applying knowledge th
 
 -Project writeups and case analyses
 
-📚 Currently studying:
+📚 Currently studying:<br/>
 
 -Balance sheet analysis and financial statement interpretation
 
@@ -26,7 +26,7 @@ Currently learning through structured academic sources and applying knowledge th
 
 -Academic finance and investment strategy
 
-🛠️ Tools:
+🛠️ Tools:<br/>
 Python · Excel · Notion · Git
 Coming soon: SQL, Tableau, Power BI
 
