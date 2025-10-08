@@ -8,7 +8,7 @@ Currently learning through structured academic sources and applying knowledge th
 
 -Applying academic finance to real-world data
 
--Exploring valuation techniques for SMEs and startups
+-Exploring valuation techniques for SMEs
 
 💼 What you'll find here:<br/>
 
@@ -28,5 +28,5 @@ Currently learning through structured academic sources and applying knowledge th
 
 🛠️ Tools:<br/>
 Python · Excel · Notion · Git
-Coming soon: SQL, Tableau, Power BI
+Soon: SQL, Tableau, Power BI
 
