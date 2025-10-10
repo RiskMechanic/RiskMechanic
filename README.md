@@ -1,32 +1,26 @@
 ## 👋 Hi, I'm riskMechanic
-I'm passionate about financial modeling, risk analysis, and company valuation—building projects that blend data, business insight, and academic rigor.
-Currently learning through structured academic sources and applying knowledge through hands-on projects and case studies.
+👋 Hi, I'm riskMechanic
 
-🔧 What I'm working on:<br/>
+I'm currently building my foundation in financial modeling, company valuation, and risk analysis. I come from a background of academic exploration and hands-on curiosity—recently completing a market analysis and a deep dive into financial statements. These projects helped me connect theory to practice and sparked a real interest in how businesses create and measure value.
 
--Building a portfolio of financial models and analysis tools
+🔧 What I'm working on:
 
--Applying academic finance to real-world data
+- Expanding my portfolio with real-world financial analyses
+- Applying valuation techniques to small businesses (especially through ADB frameworks)
+- Learning to interpret financial data with clarity and precision
 
--Exploring valuation techniques for SMEs
+💼 What you'll find here:
 
-💼 What you'll find here:<br/>
+- My first financial statement and market analyses
+- Projects inspired by academic finance and structured learning
+- Clean, well-documented repositories with transparent methodology
 
--Clean, well-documented repositories
+📚 Currently studying:
 
--Research-backed financial tools
+- Financial statement interpretation and balance sheet analysis
+- Fundamentals of valuation and forecasting
+- Investment strategy and Excel-based modeling
 
--Project writeups and case analyses
-
-📚 Currently studying:<br/>
-
--Balance sheet analysis and financial statement interpretation
-
--Fundamentals of financial modeling and Excel-based forecasting
-
--Academic finance and investment strategy
-
-🛠️ Tools:<br/>
-Python · Excel · Notion · Git
-Soon: SQL, Tableau, Power BI
-
+🛠️ Tools:
+Python · Excel · Notion · Git  
+Soon: SQL · Tableau · Power BI
