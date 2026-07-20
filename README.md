@@ -16,6 +16,3 @@ I'm currently building my foundation in financial modeling, company valuation, a
 - Financial statement interpretation and balance sheet analysis
 - Fundamentals of valuation and forecasting
 - Investment strategy and Excel-based modeling
-
-🛠️ Tools:
-Python · Excel · Notion · C++ · SQL · Power BI
