@@ -1,4 +1,4 @@
-## 👋 Hi, I'm riskMechanic
+## Hi, I'm RiskMechanic
 
 Currently building my foundations in financial modeling, company valuation, and risk analysis. I come from a technical background of sw hobby exploration and hands-on curiosity. 
 Some of these projects helped me connect theory to practice and sparked a real interest in how businesses create and measure value.
